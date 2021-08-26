@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Measure Distance Of image</title>
+
+    <style>
+        .container-of-measure {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .el-canvas {
+            margin-top: 10px;
+            border: 1px solid lightgrey;
+        }
+
+        .select-size {
+            margin-top: 5px;
+            padding: 5px;
+            border: 1px solid lightgrey;
+        }
+
+        .measure-content {
+            display: none;
+        }
+
+        .show {
+            display: block;
+        }
+
+        .btn-container {
+            margin-top: 10px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-content: center;
+        }
+
+        .separate-btn {
+            margin-top: 5px;
+            justify-content: space-between;
+            display: flex;
+            flex-direction: row;
+        }
+
+        button {
+            cursor: pointer;
+            background-color: transparent;
+            border-radius: 16px;
+            margin-left: 10px;
+            border: 1px solid lightgray;
+            padding: 10px 12px;
+            transition: .3s all;
+        }
+
+        button:hover {
+            background-color: lightgrey;
+        }
+
+        .measure-input {
+            margin-top: 10px;
+            padding: 5px;
+        }
+
+        .last-measure-container {
+            margin-top: 5px;
+            display: flex;
+            justify-content: space-between;
+        }
+    </style>
+</head>
+<body>
+<div class="container-of-measure">
+    <canvas width="700" height="500" class="el-canvas" id="measureImageCanvas"></canvas>
+    <select id="selectSize" class="select-size">
+        <option disabled selected value="">Select millimeter size</option>
+        <option value="3-3">3x3</option>
+        <option value="6-6">6x6</option>
+        <option value="9-9">9x9</option>
+        <option value="15-9">15x9</option>
+    </select>
+    <div class="measure-content" id="measureContent">
+        <div class="btn-container">
+            <div class="separate-btn">
+                <button id="horizontalMeasureBtn">Horizontal distance measurement</button>
+                <button id="areaMeasureBtn">Area measurement</button>
+            </div>
+
+            <div class="separate-btn">
+                <button id="circleMeasureBtn">Circle Measuring</button>
+                <button id="squareMeasureBtn">Square Measuring</button>
+            </div>
+        </div>
+        <div class="last-measure-container">
+            <input class="measure-input" id="measureValueInput"/>
+            <button id="resetMeasureBtn">Reset Measure</button>
+        </div>
+    </div>
+</div>
+
+<script type="module" src="js/main.js"></script>
+</body>
+</html>

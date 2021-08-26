@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30d2b14c-cc0e-49e4-aa70-b658dc8b5aff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1xBX6tm5JqbCPMwuxCowgvuaSEy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.splitter.proportion" value="0.2820513" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Web Projects\Custom order\measure-distance-of-image\js" />
+      <recent name="D:\Web Projects\Phaser Projects\untitled\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30d2b14c-cc0e-49e4-aa70-b658dc8b5aff" name="Default Changelist" comment="" />
+      <created>1629829282061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629829282061</updated>
+      <workItem from="1629829284567" duration="2049000" />
+      <workItem from="1629831584272" duration="3280000" />
+      <workItem from="1629834890511" duration="9074000" />
+      <workItem from="1629871272545" duration="6596000" />
+      <workItem from="1629920000038" duration="15976000" />
+      <workItem from="1629985041008" duration="29000" />
+      <workItem from="1630002097433" duration="3239000" />
+    </task>
+    <task id="LOCAL-00001" summary="idea init">
+      <created>1630009065125</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630009065125</updated>
+    </task>
+    <task id="LOCAL-00002" summary="idea init">
+      <created>1630009168539</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630009168539</updated>
+    </task>
+    <task id="LOCAL-00003" summary="minor changes">
+      <created>1630009229826</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1630009229826</updated>
+    </task>
+    <task id="LOCAL-00004" summary="minor changes">
+      <created>1630009272537</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630009272537</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="idea init" />
+    <MESSAGE value="minor changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor changes" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="284" y="177" key="#Notifications" timestamp="1630009135242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="284" y="177" key="#Notifications/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1630009135242" />
+    <state x="161" y="111" key="CommitChangelistDialog2" timestamp="1630009621427">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="161" y="111" key="CommitChangelistDialog2/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1630009621427" />
+    <state x="216" y="150" key="SettingsEditor" timestamp="1630009131767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="216" y="150" key="SettingsEditor/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1630009131767" />
+    <state x="284" y="240" key="Vcs.Push.Dialog.v2" timestamp="1630009624724">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="284" y="240" key="Vcs.Push.Dialog.v2/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1630009624724" />
+    <state x="296" y="125" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1629958259348">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="296" y="125" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1629958259348" />
+    <state x="348" y="235" key="run.anything.popup" timestamp="1629969359886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="348" y="235" key="run.anything.popup/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1629969359886" />
+    <state x="355" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1629931141836">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="355" y="229" width="672" height="678" key="search.everywhere.popup/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1629931141836" />
+  </component>
+</project>
