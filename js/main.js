@@ -24,7 +24,7 @@ function initElements() {
 }
 
 function canvasIntegrateAndImageSet() {
-    initContext(canvasElement, '../images/sec-image.jpg')
+    initContext(canvasElement, 'images/sec-image.jpg')
 }
 
 function initEvents() {
