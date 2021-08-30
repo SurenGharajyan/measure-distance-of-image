@@ -76,8 +76,8 @@
 <div class="container-of-measure">
     <canvas width="700" height="500" class="el-canvas" id="measureImageCanvas"></canvas>
     <select id="selectSize" class="select-size">
-        <option disabled selected value="">Select millimeter size</option>
-        <option value="3-3">3x3</option>
+        <option disabled value="">Select millimeter size</option>
+        <option value="3-3" selected>3x3</option>
         <option value="6-6">6x6</option>
         <option value="9-9">9x9</option>
         <option value="15-9">15x9</option>
@@ -195,6 +195,7 @@
         initCanvasUseElements();
         calculations = new Calculations();
         setImageToCanvas(imageSrc);
+        showMeasuringContent();
         initEvent(canvasElement);
     }
 
@@ -225,14 +226,18 @@
 
         selectImageSize.addEventListener('change', (event) => {
             if (selectImageSize.value) {
-                handleOnResetMeasureValue();
-                const values = selectImageSize.value.split('-');
-                [IMAGE_WIDTH, IMAGE_HEIGHT] =
-                    [values[0] / ONE_PIXEL_MILLIMETER, values[1] / ONE_PIXEL_MILLIMETER];
-                measureContent.classList.add('show');
+                showMeasuringContent();
             }
         });
 
+    }
+
+    function showMeasuringContent() {
+        handleOnResetMeasureValue();
+        const values = selectImageSize.value.split('-');
+        [IMAGE_WIDTH, IMAGE_HEIGHT] =
+            [values[0] / ONE_PIXEL_MILLIMETER, values[1] / ONE_PIXEL_MILLIMETER];
+        measureContent.classList.add('show');
     }
 
     function imageBackgroundDraw() {
