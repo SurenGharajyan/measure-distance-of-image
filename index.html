@@ -329,7 +329,7 @@
                             y: point.y * ratioBtwImageAndCanvas.y * ONE_PIXEL_MILLIMETER
                         })
                     );
-                    inputElement.value = calculations.lineLengthMeasure(points) + 'mm';
+                    inputElement.value = calculations.lineLengthMeasure(points).toFixed(4) + ' mm';
                     window.state = '';
                 }
 
@@ -339,7 +339,7 @@
                         x: point.x * ratioBtwImageAndCanvas.x * ONE_PIXEL_MILLIMETER,
                         y: point.y * ratioBtwImageAndCanvas.y * ONE_PIXEL_MILLIMETER
                     }));
-                    inputElement.value = calculations.calculatePolygonArea(points) + 'mm';
+                    inputElement.value = calculations.calculatePolygonArea(points).toFixed(4) + ' mm';
                     window.state = '';
                 }
 
@@ -357,7 +357,7 @@
                             y: point.y * ratioBtwImageAndCanvas.y * ONE_PIXEL_MILLIMETER
                         };
 
-                        inputElement.value = calculations.rectangleMeasure(startPoint, point) + 'mm2';
+                        inputElement.value = calculations.rectangleMeasure(startPoint, point).toFixed(4) + ' mm2';
                     }
                 } else {
                     isMeasuring = true;
@@ -377,7 +377,7 @@
                             x: point.x * ratioBtwImageAndCanvas.x * ONE_PIXEL_MILLIMETER,
                             y: point.y * ratioBtwImageAndCanvas.y * ONE_PIXEL_MILLIMETER
                         };
-                        inputElement.value = calculations.circleMeasure(startPoint, point) + 'mm2';
+                        inputElement.value = calculations.circleMeasure(startPoint, point).toFixed(4) + ' mm2';
                     }
                 } else {
                     isMeasuring = true;
