@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30d2b14c-cc0e-49e4-aa70-b658dc8b5aff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +64,7 @@
       <workItem from="1630002097433" duration="4928000" />
       <workItem from="1630011691125" duration="613000" />
       <workItem from="1630044511063" duration="970000" />
+      <workItem from="1630303992076" duration="239000" />
     </task>
     <task id="LOCAL-00001" summary="idea init">
       <created>1630009065125</created>
@@ -129,10 +129,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="284" y="240" key="Vcs.Push.Dialog.v2/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1630009624724" />
-    <state x="296" y="125" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1629958259348">
+    <state x="296" y="125" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1630304197228">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="296" y="125" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1629958259348" />
+    <state x="296" y="125" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1630304197228" />
     <state x="348" y="235" key="run.anything.popup" timestamp="1629969359886">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
