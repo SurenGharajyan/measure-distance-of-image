@@ -65,6 +65,7 @@
       <workItem from="1630044511063" duration="970000" />
       <workItem from="1630303992076" duration="716000" />
       <workItem from="1630335936194" duration="437000" />
+      <workItem from="1630342142965" duration="265000" />
     </task>
     <task id="LOCAL-00001" summary="idea init">
       <created>1630009065125</created>
@@ -108,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630304428469</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="default value in mm select tag changes">
+      <created>1630342372791</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1630342372791</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,25 +126,26 @@
     <MESSAGE value="idea init" />
     <MESSAGE value="minor changes" />
     <MESSAGE value="removed js folder.&#10;JS code included inside html" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed js folder.&#10;JS code included inside html" />
+    <MESSAGE value="default value in mm select tag changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="default value in mm select tag changes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="284" y="177" key="#Notifications" timestamp="1630009135242">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="284" y="177" key="#Notifications/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1630009135242" />
-    <state x="161" y="111" key="CommitChangelistDialog2" timestamp="1630304427595">
+    <state x="161" y="111" key="CommitChangelistDialog2" timestamp="1630342371206">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="161" y="111" key="CommitChangelistDialog2/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1630304427595" />
+    <state x="161" y="111" key="CommitChangelistDialog2/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1630342371206" />
     <state x="216" y="150" key="SettingsEditor" timestamp="1630009131767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="216" y="150" key="SettingsEditor/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1630009131767" />
-    <state x="284" y="240" key="Vcs.Push.Dialog.v2" timestamp="1630304436740">
+    <state x="284" y="240" key="Vcs.Push.Dialog.v2" timestamp="1630342376319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="284" y="240" key="Vcs.Push.Dialog.v2/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1630304436740" />
+    <state x="284" y="240" key="Vcs.Push.Dialog.v2/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1630342376319" />
     <state x="296" y="125" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1630304197228">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
